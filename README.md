@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PIXELL07/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PIXELL07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/PIXELL07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PIXELL07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/PIXELL07/LeetCode/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/PIXELL07/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PIXELL07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PIXELL07/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/PIXELL07/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/PIXELL07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PIXELL07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PIXELL07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0020-valid-parentheses) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PIXELL07/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PIXELL07/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PIXELL07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/PIXELL07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PIXELL07/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
